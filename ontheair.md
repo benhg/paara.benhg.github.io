@@ -1,6 +1,6 @@
 # POTA / SOTA
 
-[POTA](http://pota.app>) (Parks on the Air) and [SOTA](https://www.sota.org.uk/) (Summits on the Air) are just two programs encouraging portable operations in either US National/State Parks/Historic trails, or on Summits.
+[POTA](http://pota.app) (Parks on the Air) and [SOTA](https://www.sota.org.uk/) (Summits on the Air) are just two programs encouraging portable operations in either US National/State Parks/Historic trails, or on Summits.
 
 The **PAARA Discord** server (read [PAARAgraphs](/newsletter.html) to find the invite link) has a bot that will post a message whenever a PAARA member call sign is activating a park or a summit, so that other members can try to hunt or chase from their location.
 

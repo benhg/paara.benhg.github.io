@@ -51,7 +51,9 @@ For questions about Field Day or to volunteer to help, you can contact Doug, KG6
 
 ## Safety Guidelines
 
-PAARA's Field Day safety guidelines were written and updated for Field Day 2025 by [Rob Fenn KC6TYD](https://www.qrz.com/db/KC6TYD). PAARA's Field Day safety officer is Rob Fenn KC6TYD.
+For a printable version of the Safety Guidelines, please [click here](https://docs.google.com/document/d/1J4zDdLOIcLpmyfRRWEDBjy1PZdddvFCUoqU4WL1VSAg).
+
+PAARA's Field Day safety guidelines were written and updated for Field Day 2025 by [Rob Fenn KC6TYD](https://www.qrz.com/db/KC6TYD), the club's Field Day safety officer.
 
 ### Introduction
 
@@ -90,11 +92,11 @@ Due to the limited space, volunteers and visitors must park along the shoulder o
 
 ### In the Event of an Emergency; First Aid Supplies
 
-In the event of an emergency, 911 should be called immediately. In the event that EMS/Fire is needed after the main gate is locked, immediate coordination will need to take place to open the gate and to escort EMS/Fire vehicles to the Field Day site. The Safety Officer and lead coordinator shall be advised if 911 is activated. Unless otherwise stated, Safety Officer Rob Fenn, KC6TYD, will have first aid supplies available for minor emergencies.  
+<mark> In the event of an emergency, 911 should be called immediately.</mark> In the event that EMS/Fire is needed after the main gate is locked, immediate coordination will need to take place to open the gate and to escort EMS/Fire vehicles to the Field Day site. The Safety Officer and lead coordinator shall be advised if 911 is activated. Unless otherwise stated, Safety Officer Rob Fenn, KC6TYD, will have first aid supplies available for minor emergencies.  
 
 ### Weather
 
-Ambient temperatures can be significantly high during the day. Winds can become severe in the afternoons. Individuals are encouraged to hydrate appropriately. Volunteers and participants are reminded to dress accordingly and using **layers** is recommended. Night time temperatures can be chilly. Shorts pants worn during the hot day may not provide the warmth you’ll need during the night.
+Ambient temperatures can be significantly high during the day. Winds can become severe in the afternoons. Individuals are encouraged to hydrate appropriately. Volunteers and participants are reminded to dress accordingly and using **layers** is recommended. Night time temperatures can be chilly. Short pants worn during the hot day may not provide the warmth you’ll need during the night.
 
 ### General Hazards
 

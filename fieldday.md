@@ -57,7 +57,7 @@ PAARA's Field Day safety guidelines were written and updated for Field Day 2025 
 
 To facilitate the ARRL’s Field Day Safety Officer requirements, PAARA has appointed safety officers to be on site for the duration of the event. In an effort to ensure everyone’s safety during Field Day, the following information will contain abbreviated park rules and regulations, general hazards, and setup and teardown guidelines. It is expected that all volunteers, regardless of involvement, follow these guidelines.
 
-### Bedwell Bayfront Park rules and regulations (abbreviated) 
+### Bedwell Bayfront Park Rules and Regulations (Abbreviated) 
 
 To protect our long lasting relationship with the City of Menlo Park and the park staff, we need to be conscientious and respectful of the privileges we have been granted for the entire duration of Field Day. This abbreviated list of rules and regulations must be followed by all volunteers and participants: 
 

@@ -100,8 +100,7 @@ Ambient temperatures can be significantly high during the day. Winds can become 
 
 #### Wildlife
 
-The park is a wildlife refuge and as such harbors a variety of animals including snakes, skunks, and spiders. To avoid unintentional encounters with the wildlife, all volunteers shall remain on designated 
-trails unless working at a station. It is understood that our Field Day stations and antennas will be assembled in areas that are off the main trails. As such, it is essential to always be aware of your surroundings. 
+The park is a wildlife refuge and as such harbors a variety of animals including snakes, skunks, and spiders. To avoid unintentional encounters with the wildlife, all volunteers shall remain on designated trails unless working at a station. It is understood that our Field Day stations and antennas will be assembled in areas that are off the main trails. As such, it is essential to always be aware of your surroundings. 
 
 #### Nighttime Activity
 

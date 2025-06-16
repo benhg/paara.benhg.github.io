@@ -52,6 +52,24 @@ With the step up to 3A, there will be even more to do at the park, so we’re lo
 ### You work, we feed
 As always, the `You work, we feed` rule will be observed, staring with burgers, hot off the grill at the San Martin work parties, with make-it-yourself sandwiches for lunch at the park on Friday and Saturday, and hot soup and hot dogs for dinner Saturday night.  Thanks to [Rob](https://www.qrz.com/db/KC6TYD){:target="_blank"}) for feeding us so well.
 
+## Bedwell Bayfront Park Rules and Regulations (Abbreviated) 
+
+To protect our long lasting relationship with the City of Menlo Park and the park staff, we need to be conscientious and respectful of the privileges we have been granted for the entire duration of Field Day. This abbreviated list of rules and regulations must be followed by all volunteers and participants: 
+
+* Pets are to remain on leash and under control at all times
+* Bikes are restricted to paved trails and roads 
+* Plants and wildlife are to be left undisturbed 
+* Litter and trash are to be disposed of properly 
+* Fire, smoking, alcohol, or weapons of any kind are prohibited
+* Drones and other unmanned aircraft systems are not allowed
+* Tents or other enclosed structures are not allowed
+
+### Exemptions for Field Day 
+
+* You’re allowed to park your vehicle at the designated Field Day site
+* You’re allowed to remain on site past the posted park closure times
+
+
 ### Questions
 For questions about Field Day or to volunteer to help, you can contact Doug, KG6LWE PAARA’s Field Day Coordinator at his new PAARA e-mail address, <kg6lwe@paara.org> (Thanks [Sorin](https://www.qrz.com/db/KN6YUH){:target="_blank"}).
 

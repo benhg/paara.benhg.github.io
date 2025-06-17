@@ -17,11 +17,11 @@
         <th>5th prize</th>
     </tr>
     <tr>
-        <td><img src="/meetings/2025/raffle/202507-1.png" alt="image"></td>
-        <td><img src="/meetings/2025/raffle/202507-2.png" alt="image"></td>
-        <td><img src="/meetings/2025/raffle/202507-3.png" alt="image"></td>
-        <td><img src="/meetings/2025/raffle/202507-4.png" alt="image"></td>
-        <td><img src="/meetings/2025/raffle/202507-5.png" alt="image"></td>
+        <td><img src="/meetings/2025/raffle/202507-1.jpg" alt="image"></td>
+        <td><img src="/meetings/2025/raffle/202507-2.jpg" alt="image"></td>
+        <td><img src="/meetings/2025/raffle/202507-3.jpg" alt="image"></td>
+        <td><img src="/meetings/2025/raffle/202507-4.jpg" alt="image"></td>
+        <td><img src="/meetings/2025/raffle/202507-5.jpg" alt="image"></td>
     </tr>
     <tr>
         <td>YAESU FT-4XR UHF/VHF HT</td>

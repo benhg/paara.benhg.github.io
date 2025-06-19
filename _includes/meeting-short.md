@@ -3,7 +3,7 @@
 * **Topic**: `ToADS HF: A Layer Cake of Protocols That Nobody Ordered`
 * **Presenter**: `Ben Glick KN6UBF`
 * **Zoom Meeting**:
-   * `<https://us02web.zoom.us/j/86487388270>`
+   * <https://us02web.zoom.us/j/86487388270>
    * `<+16699006833,,86487388270#> US (San Jose)`
 
 <details>

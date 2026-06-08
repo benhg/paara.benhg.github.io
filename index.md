@@ -8,14 +8,18 @@ layout: default
 
 For more information, visit the [meetings page](/meetings.html).
 
-{% include raffle.md %}
+
+---
+
+On June 13th, PAARA is sponsoring the [Electronics Flea Market](https://www.electronicsfleamarket.com){:target="_blank"} at West Valley College in Saratoga. The flea market runs from 6am-12pm, and we still need several volunteers to help set up, sell vendor spots, sell concessions, and tear down after the event. This event helps to financially support the club and particularly our Field Day activities. If you can, come out and volunteer, even for a few hours, your help will be greatly appreciated.
 
 ---
 
 **Field Day** is June 27 and 28. Check the [field day page](/fieldday.html) to find out more information about how you can get involved.
 
-Field Day T-shirts are expected to be completed in time to be passed out at the June 5th meeting. If you cannot make it to the meeting they will be available for pick up at the Field Day site, Bedwell Bayfront Park, during Field Day weekend. You can also pick up your T-shirt in Redwood City. Email Rob, at [kc6tyd@paara.org](mailto:kc6tyd@paara.org), to coordinate a date and time.
+---
 
+{% include raffle.md %}
 
 ---
 

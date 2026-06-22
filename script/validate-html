@@ -2,6 +2,17 @@
 # frozen_string_literal: true
 
 require "w3c_validators"
+require "net/http"
+
+MAX_VALIDATION_ATTEMPTS = 3
+RETRYABLE_HTTP_STATUSES = (500..599).freeze
+RETRYABLE_NETWORK_ERRORS = [
+  Net::OpenTimeout,
+  Net::ReadTimeout,
+  Errno::ECONNRESET,
+  Errno::ECONNREFUSED,
+  SocketError
+].freeze
 
 def validator(file)
   extension = File.extname(file)
@@ -12,11 +23,46 @@ def validator(file)
   end
 end
 
+def retryable_validation_error?(error)
+  return true if RETRYABLE_NETWORK_ERRORS.any? { |klass| error.is_a?(klass) }
+  return false unless error.is_a?(Net::HTTPFatalError)
+
+  RETRYABLE_HTTP_STATUSES.cover?(error.response.code.to_i)
+end
+
+def validation_error_message(error)
+  return "validator service returned #{error.response.code}" if error.is_a?(Net::HTTPFatalError)
+
+  "#{error.class}: #{error.message}"
+end
+
+def validate_file_with_retries(file, path)
+  attempts = 0
+
+  begin
+    attempts += 1
+    validator(file).validate_file(path)
+  rescue StandardError => e
+    raise unless retryable_validation_error?(e)
+    raise if attempts >= MAX_VALIDATION_ATTEMPTS
+
+    warn "#{validation_error_message(e)}; retrying #{file}..."
+    sleep attempts
+    retry
+  end
+rescue StandardError => e
+  raise unless retryable_validation_error?(e)
+
+  warn "Skipping #{file}: #{validation_error_message(e)} after #{attempts} attempts."
+  nil
+end
+
 def validate(file)
   puts "Checking #{file}..."
 
   path = File.expand_path "../_site/#{file}", __dir__
-  results = validator(file).validate_file(path)
+  results = validate_file_with_retries(file, path)
+  return if results.nil?
 
   return puts "Valid!" if results.errors.empty?
 

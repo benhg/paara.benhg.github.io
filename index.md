@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="custom-notice">
-<strong>💡 Notice:</strong> The PAARA board is aware of an issue that may prevent us from operating Field Day at Bedwell Bayfront Park this year. We have identified an alternate location in San Martin (at Doug KG6LWE’s property) in case Bedwell Bayfront Park is unavailable. We will have more information on Monday, 6/22, and will post an update on paara.org as well as sending an announcement email to the membership, and giving an update on the Monday 8:30pm net. Please stay tuned for more information.
+<strong>💡 Notice:</strong> Field Day has moved to Doug KG6LWE's Radio Ranch, 11479 Carls Court, San Martin.
 </div>
 
 ## **The July meeting has been moved to July 10th due to the July 4th holiday.**

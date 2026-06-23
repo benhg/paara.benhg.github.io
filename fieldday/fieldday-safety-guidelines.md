@@ -6,21 +6,28 @@ PAARA's Field Day safety guidelines were written and updated for Field Day 2025 
 
 ## Introduction
 
-To facilitate the ARRL’s Field Day Safety Officer requirements, PAARA has appointed safety officers to be on site for the duration of the event. In an effort to ensure everyone’s safety during Field Day, the following information will contain abbreviated site rules, general hazards, and setup and teardown guidelines. It is expected that all volunteers, regardless of involvement, follow these guidelines.
+To facilitate the ARRL’s Field Day Safety Officer requirements, PAARA has appointed safety officers to be on site for the duration of the event. In an effort to ensure everyone’s safety during Field Day, the following information will contain abbreviated park rules and regulations, general hazards, and setup and teardown guidelines. It is expected that all volunteers, regardless of involvement, follow these guidelines.
 
-## Radio Ranch Rules and Site Notes
+## Bedwell Bayfront Park Rules and Regulations (Abbreviated) 
 
-* No smoking.
-* Dogs are welcome but must be on leash; the property is not fully fenced.
-* Everyone is welcome to stay for the entire event.
-* Trailers and RVs are fine, but hookups will not be available.
-* Use the East gate, closest to Monterey Road.
-* Park only in the field to the right of the house. Follow posted signs.
-* Antennas and stations will be in the West field; the social area will be to the left of the garage.
+To protect our long lasting relationship with the City of Menlo Park and the park staff, we need to be conscientious and respectful of the privileges we have been granted for the entire duration of Field Day. This abbreviated list of rules and regulations must be followed by all volunteers and participants: 
+
+* Pets are to remain on leash and under control at all times
+* Bikes are restricted to paved trails and roads 
+* Plants and wildlife are to be left undisturbed 
+* Litter and trash are to be disposed of properly 
+* Fire, smoking, alcohol, or weapons of any kind are prohibited
+* Drones and other unmanned aircraft systems are not allowed
+* Tents or other enclosed structures are not allowed
+
+### Exemptions for Field Day 
+
+* You’re allowed to park your vehicle at the designated Field Day site
+* You’re allowed to remain on site past the posted park closure times
 
 ## Site Access
 
-Access is limited to the East gate, closest to Monterey Road. Follow posted signs and use the talk-in frequency listed below if you need help getting to the site. Keep gates, driveways, and access lanes clear.
+The main gate is open from 7 a.m. to 9 p.m. After 9 p.m., the main gate will be closed and locked. Use the talk-in frequency (listed below) to arrange for someone to open the gate. To exit, locate the assigned gate keeper. You should expect delays; please plan ahead.
 
 ## Talk-In and Onsite Coordination Frequencies
 
@@ -30,11 +37,11 @@ Access is limited to the East gate, closest to Monterey Road. Follow posted sign
 
 ## Parking
 
-Parking is in the field to the right of the house only. Drivers must park in an orderly fashion and must not block gates, driveways, or access lanes. Only designated vehicles used for setup and teardown should drive into station areas. Watch for dry grass and other fire hazards around vehicles.
+Due to the limited space, volunteers and visitors must park along the shoulder of the road. Some of the station locations have turn outs that can accommodate a few vehicles. Drivers must park in an orderly fashion and at no time block the roadway accesses. Only designated vehicles used in the process of setup and teardown will be allowed to drive off the main roadways. Do not park vehicles with internal combustion engines in high grass due to the hazard of fire. All drivers must adhere to the posted speed limit.
 
 ## In the Event of an Emergency; First Aid Supplies
 
-<mark>In the event of an emergency, 911 should be called immediately.</mark> If EMS/Fire is needed, immediate coordination will need to take place to meet responders at the East gate and escort them to the Field Day site. The Safety Officer and lead coordinator shall be advised if 911 is activated. Unless otherwise stated, Safety Officer Rob Fenn, KC6TYD, will have first aid supplies available for minor emergencies.
+<mark>In the event of an emergency, 911 should be called immediately.</mark> In the event that EMS/Fire is needed after the main gate is locked, immediate coordination will need to take place to open the gate and to escort EMS/Fire vehicles to the Field Day site. The Safety Officer and lead coordinator shall be advised if 911 is activated. Unless otherwise stated, Safety Officer Rob Fenn, KC6TYD, will have first aid supplies available for minor emergencies.
 
 ## Weather
 
@@ -44,11 +51,11 @@ Ambient temperatures can be significantly high during the day. Winds can become 
 
 ### Wildlife
 
-Radio Ranch is rural property and may have snakes, insects, and uneven ground. To avoid unintentional encounters with wildlife or hazards, always be aware of your surroundings.
+The park is a wildlife refuge and as such harbors a variety of animals including snakes, skunks, and spiders. To avoid unintentional encounters with the wildlife, all volunteers shall remain on designated trails unless working at a station. It is understood that our Field Day stations and antennas will be assembled in areas that are off the main trails. As such, it is essential to always be aware of your surroundings. 
 
 ### Nighttime Activity
 
-There is limited artificial lighting at the site, and the moon will be waxing. After dusk, it will be very dark. If you are planning to be on site after dusk, you must bring a headlamp or flashlight and be extra cautious where you walk.
+There is no artificial lighting at the park, and the moon will be waxing. After dusk, it will be very dark. If you are planning to be on site after dusk, you must bring a headlamp or flashlight and be extra cautious where you walk. 
 
 ### Trip Hazards
 
@@ -95,6 +102,6 @@ The recommended number of volunteers to assemble/disassemble for the tower trail
 
 ## Hospitality Canopy
 
-A clear and flat area for the hospitality canopy is recommended. Any ruts or holes in the ground should be marked or filled with dirt. Cooking equipment should be used only in the designated hospitality area. Canopies and sunshades must be properly staked and secured. As stated earlier, electrical appliances will be used. Caution should be taken not to overload the circuit. A trash can should be made available for waste.
+A clear and flat area for the hospitality canopy is recommended. Any ruts or holes in the ground should be marked or filled with dirt. BBQs, hibachis, or any grill or stove are prohibited. Canopies and sunshades must be properly staked and secured. As stated earlier, electrical appliances will be used. Caution should be taken not to overload the circuit. A trash can should be made available for waste.
 
 You can return to the main Field Day page by [clicking here](/fieldday.html).

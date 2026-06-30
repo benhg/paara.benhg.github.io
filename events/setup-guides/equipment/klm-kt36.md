@@ -30,7 +30,16 @@ There are several markings on the antenna which tell us how to disassemble/reass
 
 ## Unpacking
 
-Add the parts inventory, inspection steps, required tools, crew size, and safety checks here.
+The antenna is usually stored on the roof of the PAARA box trailer. It's stored as:
+
+- 6 elements (color coded)
+- Boom bundle:
+	- 2 halves of the boom
+	- Mast
+	- Truss cable
+	- Mast mounting plate
+
+The "boom bundle" is taped together with electrical tape.
 
 ## Assembly
 

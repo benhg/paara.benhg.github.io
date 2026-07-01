@@ -4,6 +4,12 @@ This guide documents setup and teardown for the club's 4-element KLM KT-34A HF y
 
 The KT34 packs most of the punch of its big brother, but with significantly easier setup and teardown. It has two driven elements, driven 180 degrees out of phase with each other, one director and one reflector. It has a 3KW rated 4:1 balun serving the 50W match. Phasing on the driven elements is achieved with straps shorting the left side of one driven element to the right side of the other, and vice-versa.
 
+---
+**Table of Contents**
+* Table of Contents
+{:toc}
+---
+
 
 ## Overview
 

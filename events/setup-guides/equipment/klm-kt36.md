@@ -4,6 +4,12 @@ This guide documents setup and teardown for the club's 6-element KLM KT-36 HF ya
 
 The KT-36 is an interesting antenna: a multi-band HF Yagi with 9-10 dB of gain across the three bands. It has served us well at field day.
 
+---
+**Table of Contents**
+* Table of Contents
+{:toc}
+---
+
 ## Overview
 
 This page covers how to put together our club's KLM KT36. It is specific to our club, in that we have a set of markings on the antenna that help us repeat the process.
@@ -116,4 +122,3 @@ Teardown is essentially the reverse of assembly.
 - The Balun mounts near the driven element which has the extra cross-component. The Balun leads mount to the bolts on the cross-compoonent. This is the rear driven element. Photo:
 - The phasing lines mount to the outside set of bolts on the two driven elements.
 - When you rotate the mast ahead of mounting, rotate it so that the truss stays above the elements, and the end of the mast which will go into the tower is slightly below the elements. This is to the left, facing towards the front of the antenna.
-

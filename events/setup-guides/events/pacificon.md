@@ -2,6 +2,12 @@
 
 This guide documents the setup and teardown plan for PAARA's Pacificon Special Event Station.
 
+---
+**Table of Contents**
+* Table of Contents
+{:toc}
+---
+
 ## Overview
 
 Pacificon setup uses PAARA's station equipment to support the W1AW/6 Special Event Station. The event guide should capture the site layout, operating station plan, antennas, power, network/logging setup, volunteer roles, and teardown process.

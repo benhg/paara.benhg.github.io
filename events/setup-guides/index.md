@@ -4,6 +4,12 @@ These guides document how PAARA sets up and tears down the stations, antennas, t
 
 The goal is for each guide to be detailed enough that a prepared setup crew can use it without needing separate notes. Every event is a little different, so these pages should be updated whenever the station plan, site layout, or equipment configuration changes.
 
+---
+**Table of Contents**
+* Table of Contents
+{:toc}
+---
+
 ## Event Setup Guides
 
 Event setup guides describe the full event layout and link to the equipment guides needed for each station.

@@ -2,6 +2,12 @@
 
 This guide documents the setup and teardown plan for PAARA's Field Day station.
 
+---
+**Table of Contents**
+* Table of Contents
+{:toc}
+---
+
 ## Overview
 
 Field Day setup uses multiple stations, towers, antennas, shelters, power distribution, logging computers, and food/social areas. The event guide should capture the site layout, operating station plan, setup schedule, safety constraints, volunteer roles, and teardown process.

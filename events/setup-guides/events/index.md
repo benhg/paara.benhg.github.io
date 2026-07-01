@@ -2,6 +2,12 @@
 
 These guides cover whole-event setup plans. Each page should describe the event layout, station lineup, setup schedule, teardown plan, and the equipment guides needed by the crew.
 
+---
+**Table of Contents**
+* Table of Contents
+{:toc}
+---
+
 ## Guides
 
 * [Pacificon](/events/setup-guides/events/pacificon.html)

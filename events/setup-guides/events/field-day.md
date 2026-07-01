@@ -13,6 +13,7 @@ Add the Field Day station lineup here.
 ## Equipment Guides
 
 * [KLM KT36 yagi antenna](/events/setup-guides/equipment/klm-kt36.html)
+* [KLM KT34A yagi antenna](/events/setup-guides/equipment/klm-kt34.html)
 
 ## Setup Notes
 

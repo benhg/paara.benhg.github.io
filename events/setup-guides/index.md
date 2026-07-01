@@ -16,10 +16,10 @@ Event setup guides describe the full event layout and link to the equipment guid
 Equipment setup guides describe reusable setup steps for individual pieces of club equipment. Event guides should link to these pages instead of duplicating equipment-specific instructions.
 
 * [KLM KT36 yagi antenna](/events/setup-guides/equipment/klm-kt36.html)
+* [KLM KT34A yagi antenna](/events/setup-guides/equipment/klm-kt34.html)
 
 ## Planned Equipment Guides
 
 * AB-621 tower
-* 4-element KLM KT-34 yagi antenna
 * Tower trailer
 * 40 m monoband 4-element yagi

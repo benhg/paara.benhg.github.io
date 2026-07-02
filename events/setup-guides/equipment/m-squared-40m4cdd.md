@@ -22,6 +22,9 @@ Being taken apart and put together once a year is not really what the 40M4CDD is
 
 Each of the elements are supported by a truss. To facilitate this, each element's center portion includes a truss mount. Because the elements are so long, instead of removing the elements from the boom, we remove each half-element from the center connector.
 
+The antenna's formal manual is available [here](https://www.m2inc.com/content/PDF%20MANUALS/40MANTS/FGMAN40M4CDDMAN01.pdf).
+
+
 ## Tools Required
 
 - 7/16" Socket, for the three sections of the boom, and the bolts connecting the elements to the mast
@@ -47,8 +50,10 @@ The antenna is split into parts:
 ## Assembly
 
 1. The boom is split into three pieces. There's paint demonstrating which should go where in different colors.
-    a. Unforutnately, the rear (TODO: check if it's front but I think it's rear) driven element's center section/truss mount is positioned right over the bolt connecting the two boom sections. This means that in order to assemble the antenna, first, you must remove that one center. There are four 7/16" bolts for this. They have to be taken all the way out. 
-2. 
+    a. Unforutnately, the rear (TODO: check if it's front but I think it's rear) driven element's center section/truss mount is positioned right over the bolt connecting the two boom sections. This means that in order to assemble the antenna, first, you must remove that one center. There are four 7/16" (or 3/8") bolts for this. They have to be taken all the way out. Immediately put it back on after the boom is assembled
+    b. Make sure to apply grease to the boom sections before pushing them together.
+    c. The upside of this approach is that we never need to locate the elements along the boom. They're already in the right places.
+2. Now, the boom should be put together and on sawhorses. Next, match each element to its correct location, 
 
 ## Mounting
 
@@ -84,3 +89,4 @@ Teardown is the reverse of assembly:
 
 - Be extremely careful with the support sleves inside the element halves. It is easy to "lose" the holes and have them not line up
 - Apply a protective conductive grease (e.g. Penetrox) to all the aluminum components that will sit next to each other. Once surfaces cold-weld themselves together, it's almost impossible to get them apart.
+- The antenna's phasing lines are not symmetrical. The wider "Y" 

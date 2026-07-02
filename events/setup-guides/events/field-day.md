@@ -20,6 +20,7 @@ Add the Field Day station lineup here.
 
 * [KLM KT36 yagi antenna](/events/setup-guides/equipment/klm-kt36.html)
 * [KLM KT34A yagi antenna](/events/setup-guides/equipment/klm-kt34.html)
+* [M Squared 40M4CDD 40 m monoband beam](/events/setup-guides/equipment/m-squared-40m4cdd.html)
 
 ## Setup Notes
 

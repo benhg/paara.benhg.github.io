@@ -13,8 +13,8 @@ These guides document reusable setup and teardown procedures for individual piec
 * [KLM KT36 yagi antenna](/events/setup-guides/equipment/klm-kt36.html)
 * [KLM KT34A yagi antenna](/events/setup-guides/equipment/klm-kt34.html)
 * [M Squared 40M4CDD 40 m monoband beam](/events/setup-guides/equipment/m-squared-40m4cdd.html)
+* [Tower Trailer setup guide](/events/setup-guides/equipment/tower-trailer.html)
 
 ## Planned Guides
 
-* AB-621 tower
-* Tower trailer
+* [AB-621 tower](/events/setup-guides/equipment/ab621.html)

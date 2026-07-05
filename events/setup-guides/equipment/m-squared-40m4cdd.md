@@ -30,6 +30,7 @@ The antenna's formal manual is available [here](https://www.m2inc.com/content/PD
 - 7/16" Socket, for the three sections of the boom, and the bolts connecting the elements to the mast
 - #2 phillips screwdriver, for the element tip clamps
 - 3/8" (TODO: Check this) socket, for bolts on the element truss mounts
+- 3/8" wrench, for areas that sockets won't reach
 - 9/16" socket, for mounting plate U-bolts
 - 1/2" socket, for mast U-bolts (TODO: check this)
 
@@ -84,7 +85,25 @@ Go back to the tower trailer setup guide, and check the "hoisting" section.
 
 ## Teardown
 
-Teardown is essentially the reverse of assembly. 
+Teardown is essentially the reverse of assembly.
+
+1. Remove the antenna from whatever mast it is mounted on, and place it on sawhorses.
+2. Remove the boom truss by undoing the clamps and removing the rope. Keep it near the mounting plate.
+3. Retract the tips of the elements into the elements. Tighten the clamps back down so the element tips don't move too much.
+4. Wrap the neoprene foam around the coils and secure with tape. It is easier to do this while the elements are still attached to the boom.
+5. Remove the element trusses. You can leave the end on the boom side attached.They will be stored there.
+6. Remove the element-halves. There is one 7/16" bolt per half-element, on each side of the boom.
+    a. Remember that there is a sleeve underneath the element. If you need to remove the element and then the sleeve, that will work just fine but you may want to lubricate the sleeve before putting it back in.
+    b. Because the elements have significant mass, you will find that it's much easier to remove if you have someone hold the outside tip of the element level while it's being pulled off
+    c. Keep the bolt with the element, not with the center, in order to make sure the sleeve doesn't go anywhere. That is to say, put the bolt back through the hole on the sleeve/element-half side, not with the center piece
+7. On the two driven elements, put a zip tie through each side of the center element attachment point to keep the "donut" insulators from going anywhere
+8. Remove the phasing straps. Loosen the clamp bits with a 3/8" (TODO: check) wrench (You probably will not be able to get a socket over them), pull the lines out, and tighten back down.
+9. Remove the balun The balun wire is attached to the same bolt as the clamps for the phasing straps. Undo the U-bolts and remove the balun. Tighten the bolts back down so we don't lose nuts.
+10. Stack all the half-elements in opposite directions, so that the coils are slightly offset from each other. It's best to keep the pairs of half-elements together.
+11. Now we have to deal with removing the one center truss holder, in order to deconstruct the boom. Remove the four 7/16" bolts to take off the center piece, break apart the boom, and put the center piece back.
+12. Break the boom at the other joining area. There should now be 3 pieces of boom, each with the 7/16" bolts stored through their holes.
+13. Secure all the loose bits down - this is all the various truss bits and the phasing line.
+14. Finish by checking that the element pairs, truss pieces, and boom sections are all tied together for transport.
 
 
 ## Common Gotchas and FAQs

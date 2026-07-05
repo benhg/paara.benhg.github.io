@@ -4,6 +4,8 @@ This guide documents setup and teardown for the club's 6-element KLM KT-36 HF ya
 
 The KT-36 is an interesting antenna: a multi-band HF Yagi with 9-10 dB of gain across the three bands. It has served us well at field day.
 
+The KT36 is not produced anymore, but M2 (the successor company of KLM) builds a KT36XA which is very similar. Its manual is [available here](https://www.m2inc.com/content/PDF%20MANUALS/TRIBAND-MULTI-BAND/FGMANKT36XA.A.pdf)
+
 ---
 **Table of Contents**
 * Table of Contents

@@ -18,7 +18,7 @@ Add the Pacificon band/station lineup here.
 
 ## Equipment Guides
 
-* [KLM KT36 yagi antenna](/events/setup-guides/equipment/klm-kt36.html)
+* [KLM KT36 yagi antenna]({{ '/events/setup-guides/equipment/klm-kt36.html' | relative_url }})
 
 ## Setup Notes
 

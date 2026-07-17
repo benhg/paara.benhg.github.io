@@ -14,18 +14,18 @@ The goal is for each guide to be detailed enough that a prepared setup crew can 
 
 Event setup guides describe the full event layout and link to the equipment guides needed for each station.
 
-* [Pacificon](/events/setup-guides/events/pacificon.html)
-* [Field Day](/events/setup-guides/events/field-day.html)
+* [Pacificon]({{ '/events/setup-guides/events/pacificon.html' | relative_url }})
+* [Field Day]({{ '/events/setup-guides/events/field-day.html' | relative_url }})
 
 ## Equipment Setup Guides
 
 Equipment setup guides describe reusable setup steps for individual pieces of club equipment. Event guides should link to these pages instead of duplicating equipment-specific instructions.
 
-* [KLM KT36 yagi antenna](/events/setup-guides/equipment/klm-kt36.html)
-* [KLM KT34A yagi antenna](/events/setup-guides/equipment/klm-kt34.html)
-* [M Squared 40M4CDD 40 m monoband beam](/events/setup-guides/equipment/m-squared-40m4cdd.html)
-* [Tower Trailer setup guide](/events/setup-guides/equipment/tower-trailer.html)
+* [KLM KT36 yagi antenna]({{ '/events/setup-guides/equipment/klm-kt36.html' | relative_url }})
+* [KLM KT34A yagi antenna]({{ '/events/setup-guides/equipment/klm-kt34.html' | relative_url }})
+* [M Squared 40M4CDD 40 m monoband beam]({{ '/events/setup-guides/equipment/m-squared-40m4cdd.html' | relative_url }})
+* [Tower Trailer setup guide]({{ '/events/setup-guides/equipment/tower-trailer.html' | relative_url }})
 
 ## Planned Equipment Guides
 
-* [AB-621 tower](/events/setup-guides/equipment/ab621.html)
+* [AB-621 tower]({{ '/events/setup-guides/equipment/ab621.html' | relative_url }})

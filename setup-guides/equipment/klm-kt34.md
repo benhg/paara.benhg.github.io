@@ -4,7 +4,7 @@ This guide documents setup and teardown for the club's 4-element KLM KT-34A HF y
 
 The KT34 packs most of the punch of its big brother, but with significantly easier setup and teardown. It has two driven elements, driven 180 degrees out of phase with each other, one director and one reflector. It has a 3KW rated 4:1 balun serving the 50W match. Phasing on the driven elements is achieved with straps shorting the left side of one driven element to the right side of the other, and vice-versa.
 
-The KT34 is not produced anymore, but M2 (the successor company of KLM) builds a KT34M2 which is very similar. Its manual is [available here](https://www.m2inc.com/content/PDF%20MANUALS/70CMANTS/KT34M2MAN03-W.pdf)
+The KT34 is not produced anymore, but M2 (the successor company of KLM) builds a KT34M2 which is very similar. Its manual is [available here](https://www.m2inc.com/content/PDF%20MANUALS/70CMANTS/KT34M2MAN03-W.pdf){:target="_blank"}
 
 The club actually has two of them. This guide refers to "it", but it can be applied to either.
 
@@ -22,7 +22,7 @@ This page covers how to put together our club's KLM KT34. It is specific to our 
 This guide does not cover the full process of building the antenna for the first time from the parts that come out of the box(es).
 
 
-## Tools Required
+## Required Tools
 
 - 9/16 socket, for mast and mounting plate bolts
 - 7/16 socket, for the truss system
@@ -61,7 +61,7 @@ The KT34 comes together relatively quickly. This is because it has fewer parts t
 
 1. Put the single piece boom on a few sawhorses
 2. Line up the elements in the right order and put them in the right place. There are etched numbers in each element. 1 is the director and should be closest to the direction arrow, 2 is the front driven element, etc. There is spray paint indicating where they should go, but refer to the data sheet (TODO: Link) which has measurements in case of ambiguity.
-3. Attach the elements with the hose clamps. Unfortunately, the drive point of the hose clamps are not all facing the same direction. Do not use the hose clam to determine the left/right alignment of the elements. Additionally, the linear loading sections do not all face the right way. Trust the red/black electrical tape! Use a 5/16" socket to tighten the hose clamps. 
+3. Attach the elements with the hose clamps. Unfortunately, the drive point of the hose clamps are not all facing the same direction. Do not use the hose clam to determine the left/right alignment of the elements. Additionally, the linear loading sections do not all face the right way. Trust the red/black electrical tape! Use a 5/16" socket to tighten the hose clamps.
 
 IMPORTANT: it is very easy to damage hose clamps by over-tightening. Especially if using power tools, be extra careful when tightening.
 

@@ -4,7 +4,7 @@ This guide documents setup and teardown for the club's 6-element KLM KT-36 HF ya
 
 The KT-36 is an interesting antenna: a multi-band HF Yagi with 9-10 dB of gain across the three bands. It has served us well at field day.
 
-The KT36 is not produced anymore, but M2 (the successor company of KLM) builds a KT36XA which is very similar. Its manual is [available here](https://www.m2inc.com/content/PDF%20MANUALS/TRIBAND-MULTI-BAND/FGMANKT36XA.A.pdf)
+The KT36 is not produced anymore, but M2 (the successor company of KLM) builds a KT36XA which is very similar. Its manual is [available here](https://www.m2inc.com/content/PDF%20MANUALS/TRIBAND-MULTI-BAND/FGMANKT36XA.A.pdf){:target="_blank"}
 
 ---
 **Table of Contents**
@@ -21,7 +21,7 @@ This guide does not cover the full process of building the antenna for the first
 The KT36 is a beast. It has two driven elements, driven 180 degrees out of phase with each other, three directors and one reflector. It has a 3KW rated 4:1 balun serving the 50W match. Phasing on the driven elements is achieved with straps shorting the left side of one driven element to the right side of the other, and vice-versa.
 
 
-## Tools Required
+## Required Tools
 
 - 9/16 socket, for mast and mounting plate bolts (TODO: are the mast u-bolts 9/16 or 1/2?)
 - 7/16 socket, for bolts holding the pieces of the boom together and the truss system.
@@ -60,9 +60,9 @@ One interesting note is that the second element from the front is much shorter a
 
 The biggest mechanical difference between assembling the KT34 and KT36 is the mounting system. The KT36 has a short mast that stays with it. This means that it needs an adapter to attach to a tower with a mast.
 
-1. After unpacking, place the two pieces of the boom on sawhorses. They attach with two 7/16" bolts. There is a sticker with an arrow on the forward boom section. 
+1. After unpacking, place the two pieces of the boom on sawhorses. They attach with two 7/16" bolts. There is a sticker with an arrow on the forward boom section.
 2. Line up the elements in the right order and put them in the right place. There are etched numbers in each element. 1 is the director and should be closest to the direction arrow, 2 is the short 10m director, 3 is the front driven element, etc. There is spray paint indicating where they should go, but refer to the data sheet (TODO: Link) which has measurements in case of ambiguity. (TODO: add etched numbers to the elements next time we disassemble)
-3. Attach the elements with the hose clamps. Unfortunately, the drive point of the hose clamps are not all facing the same direction. Do not use the hose clam to determine the left/right alignment of the elements. Additionally, the linear loading sections do not all face the right way. Trust the red/black electrical tape! Use a 5/16" socket to tighten the hose clamps. 
+3. Attach the elements with the hose clamps. Unfortunately, the drive point of the hose clamps are not all facing the same direction. Do not use the hose clam to determine the left/right alignment of the elements. Additionally, the linear loading sections do not all face the right way. Trust the red/black electrical tape! Use a 5/16" socket to tighten the hose clamps.
 
 IMPORTANT: it is very easy to damage hose clamps by over-tightening. Especially if using power tools, be extra careful when tightening.
 
@@ -89,7 +89,7 @@ IMPORTANT: Make sure the phasings straps are not shorting (touching) anything ot
 
 For instructions on preparing a tower to accept an antenna, see one of the tower setup guides.
 
-If you want to mount the KT36A directly to a mast on a tower, you should skip step 8, and refer to the KT34 mounting instructions. 
+If you want to mount the KT36A directly to a mast on a tower, you should skip step 8, and refer to the KT34 mounting instructions.
 
 If you are mounting the KT36A using its mast (such as to a tower with an adapter or with a through-hole mounting system), skip step 9 above. Place the bottom of the mast into the hole that can accept it and tighten down. This how we typically mount the KT36A to the AB621.
 

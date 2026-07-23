@@ -33,7 +33,16 @@
         <aside id="sidebar">
           {% for item in site.data.navigation %}
             {% assign item_link_with_baseurl = item.link | relative_url %}
-            <a class="sidebar{% if page.url == item.link or page.url == item_link_with_baseurl %} current{% endif %}" href="{{ item_link_with_baseurl }}">{{ item.name }}</a><br>
+            {% assign is_current = false %}
+            {% if page.url == item.link or page.url == item_link_with_baseurl %}
+              {% assign is_current = true %}
+            {% endif %}
+            {% if item.active_path %}
+              {% if page.url contains item.active_path %}
+                {% assign is_current = true %}
+              {% endif %}
+            {% endif %}
+            <a class="sidebar{% if is_current %} current{% endif %}" href="{{ item_link_with_baseurl }}">{{ item.name }}</a><br>
           {% endfor %}
           <hr>
           {% for item in site.data.bottomsection %}

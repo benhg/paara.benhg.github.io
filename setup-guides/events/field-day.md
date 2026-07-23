@@ -18,11 +18,11 @@ Add the Field Day station lineup here.
 
 ## Equipment Guides
 
-* [AB-621 tower]({{ '/events/setup-guides/equipment/ab621.html' | relative_url }})
-* [KLM KT36 yagi antenna]({{ '/events/setup-guides/equipment/klm-kt36.html' | relative_url }})
-* [KLM KT34A yagi antenna]({{ '/events/setup-guides/equipment/klm-kt34.html' | relative_url }})
-* [M Squared 40M4CDD 40 m monoband beam]({{ '/events/setup-guides/equipment/m-squared-40m4cdd.html' | relative_url }})
-* [Tower Trailer setup guide]({{ '/events/setup-guides/equipment/tower-trailer.html' | relative_url }})
+* [AB-621 tower]({{ '/setup-guides/equipment/ab621.html' | relative_url }})
+* [KLM KT36 yagi antenna]({{ '/setup-guides/equipment/klm-kt36.html' | relative_url }})
+* [KLM KT34A yagi antenna]({{ '/setup-guides/equipment/klm-kt34.html' | relative_url }})
+* [M Squared 40M4CDD 40m monoband beam]({{ '/setup-guides/equipment/m-squared-40m4cdd.html' | relative_url }})
+* [Tower Trailer setup guide]({{ '/setup-guides/equipment/tower-trailer.html' | relative_url }})
 
 ## Setup Notes
 

@@ -1,6 +1,6 @@
 # Tower Trailer Setup Guide
 
-PAARA owns a tower trailer (unknown make and model) which was donated to the club years ago by the Red Cross ARC. We use it at both Field Day and Pacificon. At Field Day, we use it to hoist our 40m antenna which we use overnight, and at Pacificon, we hoist both our KT34A, and a couple of dipoles. 
+PAARA owns a tower trailer (unknown make and model) which was donated to the club years ago by the Red Cross ARC. We use it at both Field Day and Pacificon. At Field Day, we use it to hoist our 40m antenna which we use overnight, and at Pacificon, we hoist both our KT34A, and a couple of dipoles.
 
 ---
 **Table of Contents**
@@ -22,7 +22,7 @@ Next, level the trailer by deploying outriggers. Crank down the outriggers until
 
 This works best if you have two levels, one for each axis. Rest the levels on the metal frame parts of the trailer, not on the wood or plastic on the front, or on the metal saddleboxes. They are not level. Use the frame of the trailer.
 
-Once the trailer is reasonably level, move on to the next steps. Before hoisting, after the support legs are deployed, you may need to re-level the trailer. 
+Once the trailer is reasonably level, move on to the next steps. Before hoisting, after the support legs are deployed, you may need to re-level the trailer.
 
 ### Preparing the mast
 
@@ -40,7 +40,7 @@ Remove the safety pin from the large white piece of metal that retains the mast.
 
 Before hoisting the tower, we deploy the legs of the tower to hold it in place against torsional forces and wind. The legs are stored in their dedicated position. Pull out the pins securing them, and walk the legs out to 45 degrees from the tower. The legs should point out from the corners of the boxes at the back of the tower.
 
-Once they are in place, remove the metal safety stop for the tower. There are two large bolts holding it in place. They may be hand-tight, or they may need a wrench. There's a wrench attached with a cable to the very large bit for those bolts stored in one of the saddle boxes. Take off the metal piece and place it just underneath the trailer. We'll reattach it once the tower is vertical. Put the bolts back in so they don't walk away. 
+Once they are in place, remove the metal safety stop for the tower. There are two large bolts holding it in place. They may be hand-tight, or they may need a wrench. There's a wrench attached with a cable to the very large bit for those bolts stored in one of the saddle boxes. Take off the metal piece and place it just underneath the trailer. We'll reattach it once the tower is vertical. Put the bolts back in so they don't walk away.
 
 Now, attach and tension the chains that resist torsional forces and keep the legs in tension. Retrieve the two tensioners and two chains from the saddle boxes. The tensioners attach to the hanging chains on the main part of the trailer with hooks. The tensioners should be facing so that the handles tighten down away from the tower (towards the ground). The chains attach with a hook to the chain stubs on the legs. For all these hooks and chains, the hooks go around one of the links of the chains lengthwise. Do not attempt to put the hook through the eye of the chain.
 
@@ -56,18 +56,14 @@ Before any cranking, make sure you attach coax to the antenna.
 
 Check to make sure the mast is attached with the pin, the bolts are tightened, the trailer is level, and the legs are deployed and tensioned correctly.
 
-There are two cranks on the trailer. One is for hoisting the tower from horizontal to vertical, and another is for raising the vertical tower. The crank on the side of the trailer is for rotating the antenna vertical. 
+There are two cranks on the trailer. One is for hoisting the tower from horizontal to vertical, and another is for raising the vertical tower. The crank on the side of the trailer is for rotating the antenna vertical.
 
 The cranks on this trailer have built in brakes, so they must be turned by hand in each direction. Crank the tower vertical. Once vertical, attach the metal safety piece we took out earlier to hold the tower in place. The side with two vertical pieces should face in towards the tower and trailer.
 
-At this point, tighten the bolts on the antenna's mounting plate so that it won't rotate anymore. Then, begin preparing to hoist the tower. 
+At this point, tighten the bolts on the antenna's mounting plate so that it won't rotate anymore. Then, begin preparing to hoist the tower.
 
 Next, start guying the tower. There are a number of ropes and eyes in the saddle boxes. Tie ropes onto the eyes, and put the screw end of the eye into the tops of the tower sections. Usually, we put two or three layers of guylines out. Use the length of the rope to decide where to drive stakes into the ground for the guylines.
 
 Raise the tower in steps, with one person on each corner for guying.
 
 Tie down the guylines when each section reaches its intended length.
-
-
-
-
